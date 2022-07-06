@@ -19,5 +19,8 @@
   "homepage": "https://github.com/dnsnguy08/team_profile_generator#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
   }
 }
