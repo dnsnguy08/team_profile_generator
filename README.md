@@ -10,7 +10,10 @@
   - [Contributing](#contributing)
   - [Test](#test)
   - [Repository Link](#repository)
-  - [Questions](#questions) 
+  - [Questions](#questions)
+  
+  ![team_profile_screenshot](./Assets/images/team_profile_screenshot.png)
+  
   ## Installation
         - Clone the repo
         - npm i
