@@ -3,7 +3,6 @@ const Manager = require("./utils/Manager");
 const Engineer = require("./utils/Engineer");
 const Intern = require("./utils/Intern");
 const inquirer = require('inquirer');
-const path = require("path");
 const fs = require("fs");
 
 const displayTeam = require("./utils/generateHtml");
