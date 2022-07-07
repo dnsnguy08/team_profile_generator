@@ -7,7 +7,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
   - [Test](#test)
   - [Repository Link](#repository)
   - [Questions](#questions)
