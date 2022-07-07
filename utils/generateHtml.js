@@ -67,7 +67,7 @@ const displayMain = html => {
 // Function for replacing the team member card information in the html file
 const addMemberCard = (template, placeholder, value) => {
 // Use RegExp object to search for the matching placeholders within the html file to be replaced
-  const pattern = new RegExp("{ " + placeholder + " }", "gm");
+  const pattern = new RegExp("{ " + placeholder + " }", "gm"); // search the html file for the pattern globally & multiline (gm)
   return template.replace(pattern, value); // replace the specified pattern { } in the html file with the user value
 };
 
