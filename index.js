@@ -18,7 +18,7 @@ const questions = [
     },
     {
         message: "Enter Manager's employee ID:",
-        name: "managerID",
+        name: "managerId",
         type: "input",
     },
     {
