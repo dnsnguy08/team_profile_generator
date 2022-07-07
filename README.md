@@ -24,7 +24,7 @@
   
   Application is invoked using `node index.js`
   
-  Video Tutorial: https://drive.google.com/file/d/1tQQrMOLu2ntpcXmG9Me3ySHpSSospoAA/view?usp=sharing
+  [Video Tutorial](https://drive.google.com/file/d/1LAMCwMTF3kcV9jcJoCVESSC-JQxDnfBO/view?usp=sharing)
   
   ## License
   MIT License: https://choosealicense.com/licenses/mit/
