@@ -141,9 +141,6 @@ function addIntern() {
 }
 
 function createTeam() {
-    // if (!fs.existsSync(OUTPUT_DIR)) {
-    //     fs.mkdirSync(OUTPUT_DIR)
-    // }
     fs.writeFile("index.html", displayTeam(team), function(err) {
         if (err) {
             console.log(err);       
